@@ -28,4 +28,4 @@ Nesse projeto, eu aprendi o conceito de responsividade, que é essencial para ga
 <p>Através do DevClub, pude mergulhar de cabeça no mundo do desenvolvimento de software, adquirindo habilidades técnicas, conhecimento prático e conexões valiosas na indústria. O projeto "Wide Coverage Location Shared Rides" é o resultado tangível dessa jornada, que não teria sido possível sem o suporte e a atmosfera de aprendizado proporcionados pelo DevClub.</p>
 <br>
 <br>
-criado por <a href=""https://www.linkedin.com/in/victor-nardo-1710ba282/>Victor Nardo.</a>
+criado por <a href="https://www.linkedin.com/in/victor-nardo-1710ba282/">Victor Nardo.</a>
